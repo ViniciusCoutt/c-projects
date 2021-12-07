@@ -1,4 +1,4 @@
-#Exercício
+# Exercício
 
 Fazer um programa para ler um conjunto de produtos a partir de um
 arquivo em formato .csv (suponha que exista pelo menos um produto).
