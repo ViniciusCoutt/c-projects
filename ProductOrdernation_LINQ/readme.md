@@ -5,6 +5,6 @@ Em seguida mostrar o preço médio dos produtos. Depois, mostrar os
 nomes, em ordem decrescente, dos produtos que possuem preço
 inferior ao preço médio.
 
-<p align "center">
+<p align="center">
 <img src="readmeimg.png" alt="Exercise Demonstration">
 </p>
