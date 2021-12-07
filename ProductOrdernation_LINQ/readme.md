@@ -1,4 +1,5 @@
-<h1>Exercício</h1>
+#Exercício
+
 Fazer um programa para ler um conjunto de produtos a partir de um
 arquivo em formato .csv (suponha que exista pelo menos um produto).
 Em seguida mostrar o preço médio dos produtos. Depois, mostrar os
