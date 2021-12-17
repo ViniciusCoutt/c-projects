@@ -1,0 +1,24 @@
+﻿<div class="jumbotron">
+    <h2>Nova página</h2>
+    <div>
+        <a href="/paginas" class="btn btn-default">Voltar</a>
+    </div>
+
+    <form action="/paginas/criar" method="post">
+        <div class="form-group">
+            <label for="nome">Nome</label>
+            <input type="text" class="form-control" id="nome" name="nome">
+        </div>
+        <div class="form-group">
+            <label for="data">Data</label>
+            <input type="datetime" class="form-control" id="data" placeholder="data" name="data">
+        </div>
+        <div class="form-check">
+            <label for="conteudo">Conteúdo</label>
+            <script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+            <script>tinymce.init({ selector: 'textarea' });</script>
+            <textarea id="conteudo" class="form-control" name="conteudo"></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Enviar</button>
+    </form>
+</div>
