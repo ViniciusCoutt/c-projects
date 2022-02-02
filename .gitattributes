@@ -7,3 +7,4 @@
 src/*/wwwroot/* linguist-documentation
 wwwroot/** linguist-documentation
 */bin/* linguist-documentation
+*/Scripts/*
